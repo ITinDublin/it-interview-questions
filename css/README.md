@@ -1,11 +1,10 @@
 # it-interview-questions
 
-Pick a Country
+Pick a country and company.
 
 
-# [CSS Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/css)
+# [Brazil](https://github.com/douglasdeodato/it-interview-questions/tree/master/css/country/brazil)
 
-# [js Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/js)
+# [ireland](https://github.com/douglasdeodato/it-interview-questions/tree/master/css/country/ireland)
 
-# [php Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/php)
 

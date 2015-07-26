@@ -1,6 +1,9 @@
 It Interview Questions
 
-Pick a country a company and a Programing Language.
+Pick a country and company.
 
-- [ireland](#ireland) 
-- [brazil](#brazil) 
+# [Brazil](https://github.com/douglasdeodato/it-interview-questions/tree/master/js/country/brazil)
+
+# [ireland](https://github.com/douglasdeodato/it-interview-questions/tree/master/js/country/ireland)
+
+
