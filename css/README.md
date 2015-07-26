@@ -1,40 +1,11 @@
-Questions
+# it-interview-questions
 
-- [What are CSS Pseudo-elements](#What are CSS Pseudo-elements) 
-
-
-## What are CSS Pseudo-elements
-
-Syntax
-
-The syntax of pseudo-elements:
-
-selector::pseudo-element {
-    property:value;
-}
-
-Examples
-
-p::first-line {
-    color: #ff0000;
-    font-variant: small-caps;
-}
-
-p::first-letter {
-    color: #ff0000;
-    font-size: xx-large;
-}
+Pick a Country
 
 
-h2::before {
-    content: url(smiley.gif);
-}
+# [CSS Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/css)
 
-h2::after {
-    content: url(smiley.gif);
-}
+# [js Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/js)
 
-::selection {
-    color: red; 
-    background: yellow;
-}
+# [php Questions](https://github.com/douglasdeodato/it-interview-questions/tree/master/php)
+
