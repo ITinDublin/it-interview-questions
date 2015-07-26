@@ -6,6 +6,7 @@ Questions
 ## What are CSS Pseudo-elements
 
 Syntax
+
 The syntax of pseudo-elements:
 
 selector::pseudo-element {
