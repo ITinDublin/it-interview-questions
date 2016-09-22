@@ -3,12 +3,12 @@
 Pick a company.
 
 
-# [Facebook](https://github.com/douglasdeodato/it-interview-questions/tree/master/php/country/ireland/facebook)
+# [Facebook](https://github.com/ITinDublin/it-interview-questions/tree/master/php/country/ireland/facebook)
 
-# [Google](https://github.com/douglasdeodato/it-interview-questions/tree/master/php/country/ireland/google)
+# [Google](https://github.com/ITinDublin/it-interview-questions/tree/master/php/country/ireland/google)
 
-# [Ibm](https://github.com/douglasdeodato/it-interview-questions/tree/master/php/country/ireland/ibm)
+# [Ibm](https://github.com/ITinDublin/it-interview-questions/tree/master/php/country/ireland/ibm)
 
-# [Other](https://github.com/douglasdeodato/it-interview-questions/tree/master/php/country/ireland/other)
+# [Other](https://github.com/ITinDublin/it-interview-questions/tree/master/php/country/ireland/other)
 
 
